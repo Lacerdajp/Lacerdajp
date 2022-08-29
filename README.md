@@ -4,4 +4,3 @@
 -📖Sempre em busca de mais conhecimento
 -📫E-mail para contato: joaopedro.jplsouza@gmail.com
 -💼Linkedin: https://www.linkedin.com/in/jpedrolsouza/
-
