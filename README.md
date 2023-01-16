@@ -4,9 +4,7 @@
 -📖Sempre em busca de mais conhecimento   
 -📫E-mail para contato: joaopedro.jplsouza@gmail.com
 <div align="center">
-  <a href="https://github.com/Lacerdajp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lacerdajp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lacerdajp&layout=compact&langs_count=8&theme=dark&custom_title=Meus%20Estudos"/>
+  <a href="https://github.com/Lacerdajp"
 </div>
       
   <div> 
